@@ -1,0 +1,41 @@
+{
+  "name": "good-analytics",
+  "version": "0.0.0",
+  "description": "Transfrom stream class for use with hapi's `good`",
+  "main": "lib/index.js",
+  "engines": {
+    "node": "6.9.1"
+  },
+  "dependencies": {
+    "bluebird": "~3.4.7"
+  },
+  "devDependencies": {
+    "ava": "~0.17.0",
+    "babel-eslint": "~7.1.1",
+    "eslint": "~3.12.2",
+    "eslint-plugin-ava": "~4.0.0",
+    "eslint-plugin-babel": "~4.0.0",
+    "eslint-plugin-json": "~1.2.0"
+  },
+  "scripts": {
+    "test": "node test/start.js",
+    "lint": "node node_modules/eslint/bin/eslint.js {test,src}/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alockwood05/good-analytics.git"
+  },
+  "keywords": [
+    "hapi",
+    "good",
+    "nodejs",
+    "node",
+    "streams"
+  ],
+  "author": "Alockwood05",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alockwood05/good-analytics/issues"
+  },
+  "homepage": "https://github.com/alockwood05/good-analytics#readme"
+}
