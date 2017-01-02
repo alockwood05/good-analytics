@@ -1,5 +1,5 @@
 {
-  "name": "good-analytics",
+  "name": "node-module-basic-boilerplate",
   "version": "0.0.0",
   "description": "Transfrom stream class for use with hapi's `good`",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alockwood05/good-analytics.git"
+    "url": "git+https://github.com/alockwood05/node-module-basic-boilerplate.git"
   },
   "keywords": [
     "hapi",
@@ -33,9 +33,5 @@
     "streams"
   ],
   "author": "Alockwood05",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alockwood05/good-analytics/issues"
-  },
-  "homepage": "https://github.com/alockwood05/good-analytics#readme"
+  "license": "MIT"
 }

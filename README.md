@@ -1,2 +1,1 @@
-# good-analytics
-Segment.io transform stream to be used with hapi's `good` event piping https://github.com/hapijs/good.  
+# Basic node starter for a module with ava tests
